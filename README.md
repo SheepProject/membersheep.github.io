@@ -1,6 +1,5 @@
 # TODO
-fix hover colors
-load on github
-write about me section
-write resume section
-implement telegram message send in contacts section
+- fix hover colors
+- implement telegram message send in contacts section
+- write about me section
+- write resume section

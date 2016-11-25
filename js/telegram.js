@@ -3,7 +3,7 @@ $("#contactForm").submit(function( event ) {
   var name = $("#contactName").val();
   var email = $("#contactEmail").val();
   var message = $("#contactMessage").val();
-  var text = message + " from " + name + " " + email;
+  var text = message + "\n" + " from " + name + " " + email;
   var chat_id = 14174896;
   var url = "https://api.telegram.org/bot190531902:AAGEh0NWXgR37DaoiMVytlJ_iuf4iHPD6r8/sendMessage";
   $('#image-loader').fadeIn();

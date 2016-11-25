@@ -73,7 +73,7 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #FF714D;
+   color: #A7F4F6;
 }
 header .banner-text hr {
    width: 60%;
@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #FF714D; }
+header .scrolldown a:hover { color: #A7F4F6; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #FF714D; }
+ul#nav li.current a { color: #A7F4F6; }
 
 
 /* ------------------------------------------------------------------ */
@@ -194,7 +194,7 @@ ul#nav li.current a { color: #FF714D; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #FF714D; }
+#about a:hover, #about a:focus { color: #A7F4F6; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -242,7 +242,7 @@ ul#nav li.current a { color: #FF714D; }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #FF714D; }
+#resume a, #resume a:visited  { color: #A7F4F6; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -251,7 +251,7 @@ ul#nav li.current a { color: #FF714D; }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #FF714D;
+   border-bottom: 3px solid #A7F4F6;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -318,7 +318,7 @@ ul#nav li.current a { color: #FF714D; }
 
    margin: 0;
    padding-right: 24px;
-  	background: #313131;
+  	background: #A7F4F6;
    display: inline-block;
   	height: 42px;
    line-height: 42px;
@@ -795,7 +795,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #FF714D; }
+#contact a, #contact a:visited  { color: #A7F4F6; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -845,7 +845,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #FF714D;
+	background-color: #A7F4F6;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -864,7 +864,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #FF714D;
+	color: #A7F4F6;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -876,7 +876,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #FF714D; }
+#message-success { color: #A7F4F6; }
 
 #message-warning i,
 #message-success i {
@@ -960,7 +960,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #FF714D;
+    color: #A7F4F6;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
@@ -991,4 +991,4 @@ footer .social-links li:first-child { margin-left: 0; }
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background-color: #FF714D; }
+#go-top a:hover { background-color: #A7F4F6; }
